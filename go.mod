@@ -1,3 +1,3 @@
-module github.com/jfcote87/testutils
+module github.com/ICGGroup/testutils
 
 go 1.11
